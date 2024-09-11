@@ -25,19 +25,17 @@ I love working with web technologies and have a passion for building user-friend
 
 ## Leadership & Advocacy 🌟
 - **Workshop on GPT and ChatGPT Technology**: Conducted a successful workshop on GPT and ChatGPT Technology, engaging participants in hands-on activities and discussions to enhance their understanding of AI technologies and their applications.
-
 - **Public Relations Head**: As the PR Head of UIU Computer Club, I managed external communications, organized events, and boosted the club’s visibility through social media and outreach strategies, significantly increasing participation in club activities.
 
 
 ## Professional Goals 🚀
 
 - **Career Development**: Aiming to advance my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
-
-- **Continuous Learning**: Dedicated to honing my technical skills by working on personal and collaborative projects, and staying up-to-date with emerging technologies in Web Development, AI, and Project Management.
-
-- **Lifelong Learning**: Committed to continuous improvement through online courses, coding challenges, and participation in tech communities to build expertise and broaden my knowledge base.
+- **Continuous Learning**: Committed to continuous improvement through online courses, coding challenges, and staying up-to-date with emerging technologies.
 
 
 ## How to reach me 📫
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jahangir196/)
+
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect!🌏
 
