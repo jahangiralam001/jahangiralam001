@@ -17,9 +17,9 @@ I love working with web technologies and have a passion for building user-friend
 
 - **[Integrated ChatGPT for Enhancing Student Assistance](https://github.com/jahangiralam001/academic_projects/tree/main/1%20Integrated%20Chatgpt%20with%20Q%26A%20System%20(Study_sage))**: A dynamic AI-powered Q&A system offering personalized academic support for students during exam preparation, integrating ChatGPT and human experts.
 - **[Student Job Management System](https://github.com/jahangiralam001/academic_projects/tree/main/2%20Student%20Job%20Management%20System%20(Job%20Guider))**: A web application designed to facilitate job applications and hiring for students and freshers.
-- **[Real-mart Ecommerce site](https://github.com/jahangiralam001/academic_projects/tree/main/3%20Real-mart%20Ecommerce%20site)**: The project Real Mart is a web-based application for online store and selling multiple products.
-- **[UIU Event Manager](https://github.com/jahangiralam001/academic_projects/tree/main/4%20UIU%20Event%20Management)**: The UIU Event Management project is a web-based application designed for the management of events at UIU.
-- **[Address Book-Java](https://github.com/jahangiralam001/academic_projects/tree/main/5%20Address%20Book-Java)**:  A Java-based application for managing contacts with features like adding, viewing, searching, editing, and admin access verification.
+- **[Ecommerce site](https://github.com/jahangiralam001/academic_projects/tree/main/3%20Real-mart%20Ecommerce%20site)**: The project Real Mart is a web-based application for online store and selling multiple products.
+- **[Event Manager](https://github.com/jahangiralam001/academic_projects/tree/main/4%20UIU%20Event%20Management)**: The UIU Event Management project is a web-based application designed for the management of events at UIU.
+- **[Address Book](https://github.com/jahangiralam001/academic_projects/tree/main/5%20Address%20Book-Java)**:  A Java-based application for managing contacts with features like adding, viewing, searching, editing, and admin access verification.
 
 
 
