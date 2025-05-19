@@ -30,7 +30,7 @@ I love working with web technologies and have a passion for building user-friend
 
 ## Professional Goals 🚀
 
-- **Career Development**: Aiming to advance my career in software development, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
+- **Career Development**: Aiming to advance my skills, specifically in roles that leverage my leadership experience and technical skills in building impactful tech solutions.
 - **Continuous Learning**: Committed to continuous improvement through online courses, coding challenges, and staying up-to-date with emerging technologies.
 
 
