@@ -1,6 +1,6 @@
 # Hi, I'm Jahangir Alam! 👋
 
-I'm a Project Associate at Quantanite and an aspiring **Software Engineer** passionate about creating solutions that bridge the gap between creativity and functionality. My focus is on building web applications and learning new technologies to enhance my development skills.
+I'm a Sales & IT Executive at TCL Global and passionate about creating solutions that bridge the gap between creativity and functionality. My focus is on building web applications and learning new technologies to enhance my development skills.
 
 ## About Me
 
